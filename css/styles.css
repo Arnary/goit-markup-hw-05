@@ -459,6 +459,7 @@ footer {
 
 .subs-form {
     display: flex;
+    font-size: 12px;
 }
 
 .subs-email-field:focus-within {
