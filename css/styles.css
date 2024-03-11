@@ -785,7 +785,7 @@ footer button:focus {
     border-color: var(--primary-brand-color);
 }
 
-.modal-form-input:focus + .icon {
+.modal-form-input:focus + .name-icon, .modal-form-input:focus + .phone-icon, .modal-form-input:focus + .email-icon {
     fill: var(--primary-brand-color);
 }
 
