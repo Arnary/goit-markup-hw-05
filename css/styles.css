@@ -633,7 +633,6 @@ footer button:focus {
 }
 
 .modal {
-    justify-content: center;
     position: absolute;
     border-radius: 4px;
     min-height: 584px;
